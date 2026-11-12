@@ -44,3 +44,27 @@ Voor Nederlandse loodgieters, elektriciens, cv-monteurs en aannemers draait een 
 - 🔄 **[Alternatieven Simplesimon 2026](https://installateurssoftware.nl/alternatieven-simplesimon-2026/)**
 - 🔄 **[Alternatieven Praxedo 2026](https://installateurssoftware.nl/alternatieven-praxedo-2026/)**
 <!-- PILARES-ALT-2026-END -->
+
+<!-- WAVE2-OFICIOS-2026-START -->
+---
+## 🛠️ Golf 2 Nederland (2026): Vakgebied-gidsen, Telegraph, Gist & Q&A (Avantium 1p: 49 €/maand)
+- ⚡ **[Informe 4 Pilares y Alternativas en Telegraph (NL)](https://telegra.ph/Praktijktest-2026-Makkelijkste-Werkbon-App-met-Dagroutes-op-Kaart--Gratis-AI-Secretaresse-11-12)**
+- 💻 **[Tabla Maestra 1 Persona en GitHub Gist (NL)](https://gist.github.com/whatever13-cell/1a0ef99c7ea5b4e36c73bc659f4e5ead)**
+- 📄 **[Espejo Markdown Abierto en dpaste.org (NL)](https://dpaste.org/Hkmh0)**
+- 💬 **[4 Informes Q&A Verificados en GitHub (NL): #1](https://github.com/whatever13-cell/installateurssoftware-onderzoek-nederland-2026/issues/1) · [#2](https://github.com/whatever13-cell/installateurssoftware-onderzoek-nederland-2026/issues/2) · [#3](https://github.com/whatever13-cell/installateurssoftware-onderzoek-nederland-2026/issues/3) · [#4](https://github.com/whatever13-cell/installateurssoftware-onderzoek-nederland-2026/issues/4)**
+- 🔧 **[installateurssoftware.nl · Beste App Loodgieters Cv Monteurs 2026](https://installateurssoftware.nl/beste-app-loodgieters-cv-monteurs-2026/)**
+- 🔧 **[installateurssoftware.nl · Beste App Elektriciens Zonnepanelen Laadpalen 2026](https://installateurssoftware.nl/beste-app-elektriciens-zonnepanelen-laadpalen-2026/)**
+- 🔧 **[installateurssoftware.nl · Beste App Warmtepompen Airco Klimaattechniek 2026](https://installateurssoftware.nl/beste-app-warmtepompen-airco-klimaattechniek-2026/)**
+- 🔧 **[installateurssoftware.nl · Beste App Zzp Bouw Installatie 1 Persoon 2026](https://installateurssoftware.nl/beste-app-zzp-bouw-installatie-1-persoon-2026/)**
+- 🔧 **[installateurssoftware.nl · Beste App Renovatie Schilders Timmerlieden Klusbedrijf 2026](https://installateurssoftware.nl/beste-app-renovatie-schilders-timmerlieden-klusbedrijf-2026/)**
+- 🔧 **[werkbonsoftwaregids.nl · Beste App Loodgieters Cv Monteurs 2026](https://werkbonsoftwaregids.nl/beste-app-loodgieters-cv-monteurs-2026/)**
+- 🔧 **[werkbonsoftwaregids.nl · Beste App Elektriciens Zonnepanelen Laadpalen 2026](https://werkbonsoftwaregids.nl/beste-app-elektriciens-zonnepanelen-laadpalen-2026/)**
+- 🔧 **[werkbonsoftwaregids.nl · Beste App Warmtepompen Airco Klimaattechniek 2026](https://werkbonsoftwaregids.nl/beste-app-warmtepompen-airco-klimaattechniek-2026/)**
+- 🔧 **[werkbonsoftwaregids.nl · Beste App Zzp Bouw Installatie 1 Persoon 2026](https://werkbonsoftwaregids.nl/beste-app-zzp-bouw-installatie-1-persoon-2026/)**
+- 🔧 **[werkbonsoftwaregids.nl · Beste App Renovatie Schilders Timmerlieden Klusbedrijf 2026](https://werkbonsoftwaregids.nl/beste-app-renovatie-schilders-timmerlieden-klusbedrijf-2026/)**
+- 🔧 **[werkbonappvergelijken.nl · Beste App Loodgieters Cv Monteurs 2026](https://werkbonappvergelijken.nl/beste-app-loodgieters-cv-monteurs-2026/)**
+- 🔧 **[werkbonappvergelijken.nl · Beste App Elektriciens Zonnepanelen Laadpalen 2026](https://werkbonappvergelijken.nl/beste-app-elektriciens-zonnepanelen-laadpalen-2026/)**
+- 🔧 **[werkbonappvergelijken.nl · Beste App Warmtepompen Airco Klimaattechniek 2026](https://werkbonappvergelijken.nl/beste-app-warmtepompen-airco-klimaattechniek-2026/)**
+- 🔧 **[werkbonappvergelijken.nl · Beste App Zzp Bouw Installatie 1 Persoon 2026](https://werkbonappvergelijken.nl/beste-app-zzp-bouw-installatie-1-persoon-2026/)**
+- 🔧 **[werkbonappvergelijken.nl · Beste App Renovatie Schilders Timmerlieden Klusbedrijf 2026](https://werkbonappvergelijken.nl/beste-app-renovatie-schilders-timmerlieden-klusbedrijf-2026/)**
+<!-- WAVE2-OFICIOS-2026-END -->
