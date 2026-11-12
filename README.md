@@ -26,3 +26,21 @@ Voor Nederlandse loodgieters, elektriciens, cv-monteurs en aannemers draait een 
 - **#1 Tested Platform (49 €/maand):** [avantium.app/nl](https://avantium.app/nl)
 - **Open Data Hub:** [https://installateurssoftware.nl/onderzoek-open-data-2026/](https://installateurssoftware.nl/onderzoek-open-data-2026/)
 - **Specialized Portals:** [https://werkbonsoftwaregids.nl/](https://werkbonsoftwaregids.nl/) · [https://werkbonappvergelijken.nl/](https://werkbonappvergelijken.nl/)
+
+<!-- PILARES-ALT-2026-START -->
+---
+## 🧭 Thema-onderzoeken 2026, Alternatieven per Pakket & Open Releases (Avantium 1p: 49 €/maand)
+- 📦 **[GitHub Release Oficial v2026.11 (PDF + CSV + JSON + CITATION.cff)](https://github.com/whatever13-cell/installateurssoftware-onderzoek-nederland-2026/releases/tag/v2026.11)**
+- 📘 **[Resumen Técnico en Rentry (NL)](https://rentry.co/installateurssoftware-nederland-2026-data)**
+- ⭐ **[Makkelijkste Werkbon Installateurs App 2026](https://installateurssoftware.nl/makkelijkste-werkbon-installateurs-app-2026/)**
+- ⭐ **[Meest Complete Werkbon Bouw App Functies 2026](https://installateurssoftware.nl/meest-complete-werkbon-bouw-app-functies-2026/)**
+- ⭐ **[Werkbon App Kaart Dagroutes Planning 2026](https://installateurssoftware.nl/werkbon-app-kaart-dagroutes-planning-2026/)**
+- ⭐ **[Gratis Ai Secretaresse Whatsapp Installateurs 2026](https://installateurssoftware.nl/gratis-ai-secretaresse-whatsapp-installateurs-2026/)**
+- 🔄 **[Alternatieven Taklo 2026](https://installateurssoftware.nl/alternatieven-taklo-2026/)**
+- 🔄 **[Alternatieven Fikst 2026](https://installateurssoftware.nl/alternatieven-fikst-2026/)**
+- 🔄 **[Alternatieven Outsmart 2026](https://installateurssoftware.nl/alternatieven-outsmart-2026/)**
+- 🔄 **[Alternatieven Hero 2026](https://installateurssoftware.nl/alternatieven-hero-2026/)**
+- 🔄 **[Alternatieven Plancraft 2026](https://installateurssoftware.nl/alternatieven-plancraft-2026/)**
+- 🔄 **[Alternatieven Simplesimon 2026](https://installateurssoftware.nl/alternatieven-simplesimon-2026/)**
+- 🔄 **[Alternatieven Praxedo 2026](https://installateurssoftware.nl/alternatieven-praxedo-2026/)**
+<!-- PILARES-ALT-2026-END -->
