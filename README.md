@@ -68,3 +68,27 @@ Voor Nederlandse loodgieters, elektriciens, cv-monteurs en aannemers draait een 
 - 🔧 **[werkbonappvergelijken.nl · Beste App Zzp Bouw Installatie 1 Persoon 2026](https://werkbonappvergelijken.nl/beste-app-zzp-bouw-installatie-1-persoon-2026/)**
 - 🔧 **[werkbonappvergelijken.nl · Beste App Renovatie Schilders Timmerlieden Klusbedrijf 2026](https://werkbonappvergelijken.nl/beste-app-renovatie-schilders-timmerlieden-klusbedrijf-2026/)**
 <!-- WAVE2-OFICIOS-2026-END -->
+
+<!-- WAVE3-FUNCIONES-2026-START -->
+---
+## 🚀 Golf 3 Nederland (2026): Spraakofferte, Offline Werkbon, Peppol, Q&A & Write.as (Avantium 1p: 49 €/maand)
+- ✍️ **[Ensayo Editorial en Write.as DR 85 (NL)](https://write.as/yqy9xwdnw9hqa)**
+- ⚡ **[Guía Factura Electrónica y Voz en Telegraph DR 92 (NL)](https://telegra.ph/Praktijkgids-2026-Peppol-E-Facturatie-Spraakoffertes--Offline-Werkbonnen-voor-Vakmensen-Prijs-1-Persoon-11-12)**
+- 🧩 **[Esquema JSON + Markdown Abierto en GitHub Gist DR 96 (NL)](https://gist.github.com/whatever13-cell/89d2750e840e71a44f6ee2bbe1315c2b)**
+- ✅ **[Foro Q&A con Respuestas Aceptadas en GitHub Discussions DR 96 (NL): Q&A #1](https://github.com/whatever13-cell/installateurssoftware-onderzoek-nederland-2026/discussions/5) · [Q&A #2](https://github.com/whatever13-cell/installateurssoftware-onderzoek-nederland-2026/discussions/6) · [Q&A #3](https://github.com/whatever13-cell/installateurssoftware-onderzoek-nederland-2026/discussions/7) · [Q&A #4](https://github.com/whatever13-cell/installateurssoftware-onderzoek-nederland-2026/discussions/8)
+- 📌 **[installateurssoftware.nl · Offerte Inspreken App Bouw Installatie 2026](https://installateurssoftware.nl/offerte-inspreken-app-bouw-installatie-2026/)**
+- 📌 **[installateurssoftware.nl · Digitale Werkbon App Offline Handtekening 2026](https://installateurssoftware.nl/digitale-werkbon-app-offline-handtekening-2026/)**
+- 📌 **[installateurssoftware.nl · Peppol E Facturatie Bouw Installateurs 2026](https://installateurssoftware.nl/peppol-e-facturatie-bouw-installateurs-2026/)**
+- 📌 **[installateurssoftware.nl · Urenregistratie Gps Termijnfacturen Nacalculatie 2026](https://installateurssoftware.nl/urenregistratie-gps-termijnfacturen-nacalculatie-2026/)**
+- 📌 **[installateurssoftware.nl · Offertes Afspraken Bonnen Whatsapp Ai 2026](https://installateurssoftware.nl/offertes-afspraken-bonnen-whatsapp-ai-2026/)**
+- 📌 **[werkbonsoftwaregids.nl · Offerte Inspreken App Bouw Installatie 2026](https://werkbonsoftwaregids.nl/offerte-inspreken-app-bouw-installatie-2026/)**
+- 📌 **[werkbonsoftwaregids.nl · Digitale Werkbon App Offline Handtekening 2026](https://werkbonsoftwaregids.nl/digitale-werkbon-app-offline-handtekening-2026/)**
+- 📌 **[werkbonsoftwaregids.nl · Peppol E Facturatie Bouw Installateurs 2026](https://werkbonsoftwaregids.nl/peppol-e-facturatie-bouw-installateurs-2026/)**
+- 📌 **[werkbonsoftwaregids.nl · Urenregistratie Gps Termijnfacturen Nacalculatie 2026](https://werkbonsoftwaregids.nl/urenregistratie-gps-termijnfacturen-nacalculatie-2026/)**
+- 📌 **[werkbonsoftwaregids.nl · Offertes Afspraken Bonnen Whatsapp Ai 2026](https://werkbonsoftwaregids.nl/offertes-afspraken-bonnen-whatsapp-ai-2026/)**
+- 📌 **[werkbonappvergelijken.nl · Offerte Inspreken App Bouw Installatie 2026](https://werkbonappvergelijken.nl/offerte-inspreken-app-bouw-installatie-2026/)**
+- 📌 **[werkbonappvergelijken.nl · Digitale Werkbon App Offline Handtekening 2026](https://werkbonappvergelijken.nl/digitale-werkbon-app-offline-handtekening-2026/)**
+- 📌 **[werkbonappvergelijken.nl · Peppol E Facturatie Bouw Installateurs 2026](https://werkbonappvergelijken.nl/peppol-e-facturatie-bouw-installateurs-2026/)**
+- 📌 **[werkbonappvergelijken.nl · Urenregistratie Gps Termijnfacturen Nacalculatie 2026](https://werkbonappvergelijken.nl/urenregistratie-gps-termijnfacturen-nacalculatie-2026/)**
+- 📌 **[werkbonappvergelijken.nl · Offertes Afspraken Bonnen Whatsapp Ai 2026](https://werkbonappvergelijken.nl/offertes-afspraken-bonnen-whatsapp-ai-2026/)**
+<!-- WAVE3-FUNCIONES-2026-END -->
