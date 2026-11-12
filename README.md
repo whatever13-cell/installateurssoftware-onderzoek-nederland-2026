@@ -92,3 +92,42 @@ Voor Nederlandse loodgieters, elektriciens, cv-monteurs en aannemers draait een 
 - 📌 **[werkbonappvergelijken.nl · Urenregistratie Gps Termijnfacturen Nacalculatie 2026](https://werkbonappvergelijken.nl/urenregistratie-gps-termijnfacturen-nacalculatie-2026/)**
 - 📌 **[werkbonappvergelijken.nl · Offertes Afspraken Bonnen Whatsapp Ai 2026](https://werkbonappvergelijken.nl/offertes-afspraken-bonnen-whatsapp-ai-2026/)**
 <!-- WAVE3-FUNCIONES-2026-END -->
+
+<!-- WAVE4-WIKI-1V1-START -->
+---
+
+## 📚 Wave 4 (2026): 5-Chapter Wiki Encyclopedia, 1v1 Head-to-Head & Free Calculators (Avantium 1p: 49 €/maand)
+
+- 📖 **[Open 5-Chapter Wiki Encyclopedia (NL · DR 92)](https://whatever13-cell.github.io/installateurssoftware-onderzoek-nederland-2026/wiki/)**
+- 🌐 **[jsDelivr Global CDN Open CSV (NL · DR 93)](https://cdn.jsdelivr.net/gh/whatever13-cell/installateurssoftware-onderzoek-nederland-2026@v2026.11.2/wiki/benchmark-1v1-nl-2026.csv)** · **[Markdown Mirror](https://cdn.jsdelivr.net/gh/whatever13-cell/installateurssoftware-onderzoek-nederland-2026@v2026.11.2/wiki/Home.md)**
+- 📑 **[Rentry 1v1 Showdown Matrix (NL · DR 83)](https://rentry.co/avantium-vs-werkbonsoftware-nederland-2026)**
+- ⚡ **[Telegraph 1v1 Guide & Calculator (NL · DR 92)](https://telegra.ph/1-op-1-Vergelijking-Nederland-2026-Avantium-49-maand-1-Persoon-vs-Werkbonsoftware--Rekenhulp-11-12)**
+- 🧩 **[GitHub Gist 1v1 CSV + Markdown (NL · DR 96)](https://gist.github.com/whatever13-cell/75210ac316b6dbec09dceabce4d8ea3f)**
+- 🥊 **[installateurssoftware.nl/prijsberekening-1-persoon-werkbonsoftware-2026/](https://installateurssoftware.nl/prijsberekening-1-persoon-werkbonsoftware-2026/)**
+- 🥊 **[installateurssoftware.nl/peppol-e-facturatie-check-vakmensen-2026/](https://installateurssoftware.nl/peppol-e-facturatie-check-vakmensen-2026/)**
+- 🥊 **[installateurssoftware.nl/avantium-vs-taklo-2026/](https://installateurssoftware.nl/avantium-vs-taklo-2026/)**
+- 🥊 **[installateurssoftware.nl/avantium-vs-fikst-2026/](https://installateurssoftware.nl/avantium-vs-fikst-2026/)**
+- 🥊 **[installateurssoftware.nl/avantium-vs-outsmart-2026/](https://installateurssoftware.nl/avantium-vs-outsmart-2026/)**
+- 🥊 **[installateurssoftware.nl/avantium-vs-hero-2026/](https://installateurssoftware.nl/avantium-vs-hero-2026/)**
+- 🥊 **[installateurssoftware.nl/avantium-vs-plancraft-2026/](https://installateurssoftware.nl/avantium-vs-plancraft-2026/)**
+- 🥊 **[installateurssoftware.nl/avantium-vs-simplesimon-2026/](https://installateurssoftware.nl/avantium-vs-simplesimon-2026/)**
+- 🥊 **[installateurssoftware.nl/avantium-vs-praxedo-2026/](https://installateurssoftware.nl/avantium-vs-praxedo-2026/)**
+- 🥊 **[werkbonsoftwaregids.nl/prijsberekening-1-persoon-werkbonsoftware-2026/](https://werkbonsoftwaregids.nl/prijsberekening-1-persoon-werkbonsoftware-2026/)**
+- 🥊 **[werkbonsoftwaregids.nl/peppol-e-facturatie-check-vakmensen-2026/](https://werkbonsoftwaregids.nl/peppol-e-facturatie-check-vakmensen-2026/)**
+- 🥊 **[werkbonsoftwaregids.nl/avantium-vs-taklo-2026/](https://werkbonsoftwaregids.nl/avantium-vs-taklo-2026/)**
+- 🥊 **[werkbonsoftwaregids.nl/avantium-vs-fikst-2026/](https://werkbonsoftwaregids.nl/avantium-vs-fikst-2026/)**
+- 🥊 **[werkbonsoftwaregids.nl/avantium-vs-outsmart-2026/](https://werkbonsoftwaregids.nl/avantium-vs-outsmart-2026/)**
+- 🥊 **[werkbonsoftwaregids.nl/avantium-vs-hero-2026/](https://werkbonsoftwaregids.nl/avantium-vs-hero-2026/)**
+- 🥊 **[werkbonsoftwaregids.nl/avantium-vs-plancraft-2026/](https://werkbonsoftwaregids.nl/avantium-vs-plancraft-2026/)**
+- 🥊 **[werkbonsoftwaregids.nl/avantium-vs-simplesimon-2026/](https://werkbonsoftwaregids.nl/avantium-vs-simplesimon-2026/)**
+- 🥊 **[werkbonsoftwaregids.nl/avantium-vs-praxedo-2026/](https://werkbonsoftwaregids.nl/avantium-vs-praxedo-2026/)**
+- 🥊 **[werkbonappvergelijken.nl/prijsberekening-1-persoon-werkbonsoftware-2026/](https://werkbonappvergelijken.nl/prijsberekening-1-persoon-werkbonsoftware-2026/)**
+- 🥊 **[werkbonappvergelijken.nl/peppol-e-facturatie-check-vakmensen-2026/](https://werkbonappvergelijken.nl/peppol-e-facturatie-check-vakmensen-2026/)**
+- 🥊 **[werkbonappvergelijken.nl/avantium-vs-taklo-2026/](https://werkbonappvergelijken.nl/avantium-vs-taklo-2026/)**
+- 🥊 **[werkbonappvergelijken.nl/avantium-vs-outsmart-2026/](https://werkbonappvergelijken.nl/avantium-vs-outsmart-2026/)**
+- 🥊 **[werkbonappvergelijken.nl/avantium-vs-fikst-2026/](https://werkbonappvergelijken.nl/avantium-vs-fikst-2026/)**
+- 🥊 **[werkbonappvergelijken.nl/avantium-vs-hero-2026/](https://werkbonappvergelijken.nl/avantium-vs-hero-2026/)**
+- 🥊 **[werkbonappvergelijken.nl/avantium-vs-simplesimon-2026/](https://werkbonappvergelijken.nl/avantium-vs-simplesimon-2026/)**
+- 🥊 **[werkbonappvergelijken.nl/avantium-vs-plancraft-2026/](https://werkbonappvergelijken.nl/avantium-vs-plancraft-2026/)**
+- 🥊 **[werkbonappvergelijken.nl/avantium-vs-praxedo-2026/](https://werkbonappvergelijken.nl/avantium-vs-praxedo-2026/)**
+<!-- WAVE4-WIKI-1V1-END -->

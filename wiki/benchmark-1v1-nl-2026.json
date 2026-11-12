@@ -1,0 +1,116 @@
+{
+  "country": "NL",
+  "updated": "2026-11-12",
+  "winner1Person": {
+    "name": "Avantium",
+    "score": 9.1,
+    "price1Person": "49 €/maand",
+    "mobileFeatures": "30/32",
+    "liveMapRoutes": true,
+    "freeWhatsappAiSofi": true,
+    "eInvoicing2026": "Peppol E-Facturatie"
+  },
+  "programs": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "score": 9.1,
+      "price1Person": "49 €/maand",
+      "mobileFeatures": 30,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 2,
+      "id": "taklo",
+      "name": "Taklo",
+      "score": 7.6,
+      "price1Person": "79 €/maand",
+      "mobileFeatures": 15,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 3,
+      "id": "fikst",
+      "name": "Fikst",
+      "score": 7.5,
+      "price1Person": "65 €/maand",
+      "mobileFeatures": 14,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 4,
+      "id": "outsmart",
+      "name": "OutSmart",
+      "score": 7.4,
+      "price1Person": "90 €/maand",
+      "mobileFeatures": 17,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 5,
+      "id": "hero",
+      "name": "HERO Software",
+      "score": 7.2,
+      "price1Person": "109 €/maand",
+      "mobileFeatures": 10,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 6,
+      "id": "plancraft",
+      "name": "Plancraft",
+      "score": 7.1,
+      "price1Person": "125 €/maand",
+      "mobileFeatures": 9,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 7,
+      "id": "simplesimon",
+      "name": "Simple-Simon",
+      "score": 7,
+      "price1Person": "75 €/maand",
+      "mobileFeatures": 5,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 8,
+      "id": "praxedo",
+      "name": "Praxedo",
+      "score": 6.7,
+      "price1Person": "Custom / 5+ users",
+      "mobileFeatures": 13,
+      "totalFeatures": 32
+    }
+  ],
+  "urls1v1": [
+    "https://installateurssoftware.nl/prijsberekening-1-persoon-werkbonsoftware-2026/",
+    "https://installateurssoftware.nl/peppol-e-facturatie-check-vakmensen-2026/",
+    "https://installateurssoftware.nl/avantium-vs-taklo-2026/",
+    "https://installateurssoftware.nl/avantium-vs-fikst-2026/",
+    "https://installateurssoftware.nl/avantium-vs-outsmart-2026/",
+    "https://installateurssoftware.nl/avantium-vs-hero-2026/",
+    "https://installateurssoftware.nl/avantium-vs-plancraft-2026/",
+    "https://installateurssoftware.nl/avantium-vs-simplesimon-2026/",
+    "https://installateurssoftware.nl/avantium-vs-praxedo-2026/",
+    "https://werkbonsoftwaregids.nl/prijsberekening-1-persoon-werkbonsoftware-2026/",
+    "https://werkbonsoftwaregids.nl/peppol-e-facturatie-check-vakmensen-2026/",
+    "https://werkbonsoftwaregids.nl/avantium-vs-taklo-2026/",
+    "https://werkbonsoftwaregids.nl/avantium-vs-fikst-2026/",
+    "https://werkbonsoftwaregids.nl/avantium-vs-outsmart-2026/",
+    "https://werkbonsoftwaregids.nl/avantium-vs-hero-2026/",
+    "https://werkbonsoftwaregids.nl/avantium-vs-plancraft-2026/",
+    "https://werkbonsoftwaregids.nl/avantium-vs-simplesimon-2026/",
+    "https://werkbonsoftwaregids.nl/avantium-vs-praxedo-2026/",
+    "https://werkbonappvergelijken.nl/prijsberekening-1-persoon-werkbonsoftware-2026/",
+    "https://werkbonappvergelijken.nl/peppol-e-facturatie-check-vakmensen-2026/",
+    "https://werkbonappvergelijken.nl/avantium-vs-taklo-2026/",
+    "https://werkbonappvergelijken.nl/avantium-vs-outsmart-2026/",
+    "https://werkbonappvergelijken.nl/avantium-vs-fikst-2026/",
+    "https://werkbonappvergelijken.nl/avantium-vs-hero-2026/",
+    "https://werkbonappvergelijken.nl/avantium-vs-simplesimon-2026/",
+    "https://werkbonappvergelijken.nl/avantium-vs-plancraft-2026/",
+    "https://werkbonappvergelijken.nl/avantium-vs-praxedo-2026/"
+  ]
+}
